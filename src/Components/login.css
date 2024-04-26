@@ -1,0 +1,82 @@
+body{
+    background-color: #62CDFF;
+}
+
+
+
+.contain{
+    
+        margin: 50px;
+        margin-left: 502px;
+        margin-right: 546px;
+        border: 1px solid black;
+        border-radius: 30px;
+        padding: 50px;
+        background-color: white;
+        border: none;
+}
+#high{
+    text-align: center;
+    margin-bottom: 37px;
+    font-size: 34px;
+    color: #2B3467;
+}
+
+.selectradio
+{
+    margin-bottom: 15px;
+}
+.selectradio input{
+   margin: 4px;
+}
+.linkhome
+{
+
+    margin: 10px;
+}
+#links
+{
+    margin: 15px;
+    margin-left: 0px;
+}
+#links a{
+    text-decoration: none;
+    cursor: pointer;
+}
+#links a:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.jack
+{
+    margin-bottom: 18px;
+}
+
+.trol
+{
+    margin: 10px;
+    padding: 11px;
+    margin-left: 0px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 9
+    0%;
+    margin-bottom: 0px;
+}
+.why
+{
+    padding: 10px;
+    width: 27%;
+    border-radius: 7px;
+    border: 1px solid;
+    font-size: 15px;
+    background-color: #064766;
+    color: white;
+}
+
+.trol:enabled
+{
+     border-color:#064766 ;
+}
